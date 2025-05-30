@@ -4,10 +4,8 @@ This repository contains Python scripts and notebooks for various data analysis 
 
 ## Structure
 
-- `scripts/`: Contains categorized `.py` scripts demonstrating:
+- `notebooks/`: Jupyter notebooks combining explanation, visualization, and code for end-to-end workflows.
   - **Basic operations**: `groupby`, `agg`, `apply`, `pivot_table`, `crosstab`, etc.
   - **Plotting**: Common plot types like line plot, scatter plot, box plot, and histogram using `matplotlib` and `seaborn`.
   - **Machine Learning**: Training and evaluating models such as: Linear Regression, Logistic Regression, Random Forest, Gradient Boosting, etc.
-
-- `notebooks/`: Jupyter notebooks combining explanation, visualization, and code for end-to-end workflows.
 - `data/`: Sample datasets for testing and exploration.
